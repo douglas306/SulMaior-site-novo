@@ -1,0 +1,18 @@
+SUL MAIOR - SITE NOVO (prévia)
+
+COMO ABRIR (30 segundos)
+1. Descompacte este zip (dois cliques no arquivo).
+2. Abra a pasta e dê dois cliques no arquivo "index.html".
+3. Ele abre no navegador (Chrome, Safari, Edge). Pronto.
+
+DICAS
+- Precisa de internet só para carregar as fontes. Sem internet o site abre, com fonte padrão.
+- Teste também no celular: no computador, aperte F12 e escolha o ícone de celular, ou apenas diminua a janela.
+- Passe o mouse sobre os cards para ver o verso com foto.
+
+PARA HOSPEDAR
+- É um site estático (HTML, CSS e JS), sem build e sem banco de dados.
+- Basta subir TODO o conteúdo desta pasta na raiz da hospedagem (index.html na raiz).
+- Fotos, vídeo e logos estão em assets/. Os créditos estão em CREDITOS.md.
+- Formulário: abre o WhatsApp (51) 99858-2806 com a mensagem pronta.
+- Ainda falta trocar o logo da Tokio Marine (PNG) pelo vetor oficial, se a corretora tiver.
