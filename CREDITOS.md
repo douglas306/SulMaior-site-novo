@@ -32,3 +32,4 @@ Marcas das respectivas seguradoras, usadas para identificar parceiros.
 WhatsApp e Instagram: simple-icons 11.0.0 (CC0).
 
 Logo FAMOSO.® do rodapé: famoso-site/public/logo-horizontal.svg.
+- Bradesco Seguros e MSIG Mitsui Sumitomo Seguros: logos enviados pela Sul Maior (bradesco.png, msig.png), recortados e com fundo transparente.

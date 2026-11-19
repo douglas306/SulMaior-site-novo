@@ -187,6 +187,9 @@ footer a{color:var(--on-deep);text-underline-offset:3px}
 .ins h3{width:100%}
 .logo-hdi{height:52px;width:auto;aspect-ratio:215.1/132.8}
 .logo-yelum{height:40px;width:auto;aspect-ratio:200/66}
+.ins h3{height:auto;min-height:56px}
+.logo-bradesco{max-height:46px;max-width:190px}
+.logo-msig{max-height:64px;max-width:190px}
 
 /* Entradas animadas (só quando o JS está ativo) */
 .js .reveal{opacity:0;transform:translateY(28px);transition:opacity .8s var(--ease),transform .8s var(--ease);transition-delay:var(--d,0s)}
